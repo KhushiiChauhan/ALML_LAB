@@ -15,3 +15,4 @@ print(f"Subtraction: {num1} - {num2} = {subtraction}")
 print(f"Multiplication: {num1} * {num2} = {multiplication}")
 print(f"Division: {num1} / {num2} = {division}")
 print(f"Modulus: {num1} % {num2} = {modulus}")
+#fist code
